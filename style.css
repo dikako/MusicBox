@@ -73,3 +73,8 @@ header p{
     bottom: 0%;
     z-index: -1;
 }
+
+p {
+    font-size: 9px;
+    text-align: center;
+}
